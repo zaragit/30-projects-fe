@@ -19,7 +19,7 @@
 - [ ] ToDo list
 - [x] Music player
 - [ ] 마우스 이미지 변경하기
-- [ ] 카카오 지도
+- [x] 카카오 지도
 
 ### Part3. Upper instermediate
 
